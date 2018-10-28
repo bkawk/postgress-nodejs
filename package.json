@@ -1,0 +1,22 @@
+{
+  "name": "postgress-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bkawk/postgress-nodejs.git"
+  },
+  "author": "@bkawk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bkawk/postgress-nodejs/issues"
+  },
+  "homepage": "https://github.com/bkawk/postgress-nodejs#readme",
+  "dependencies": {
+    "pg": "^7.6.0"
+  }
+}
